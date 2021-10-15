@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDcd76609fe74b3010323dad6bc8b211e0</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>adaeee3e2f473010ed0152492799b67a</scope_name>
+        <serialized_content>{"FlowDesigner:FDcd76609fe74b3010323dad6bc8b211e0":{"assets":["Any"],"assets.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"assets\",\"mandatory\":\"false\",\"child_name\":\"assets_child0\",\"uiUniqueId\":\"496cd083-6f5a-4ed9-aff8-3c9d6042f463\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"assets_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"b55e4590-43e4-4a48-b59a-824a58c9b72c\"}"}},"FlowDesigner:FDcd76609fe74b3010323dad6bc8b211e0.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"root\",\"mandatory\":\"false\",\"uiUniqueId\":\"422a42d2-9b99-466f-8d5f-abfc3fd1f1f3\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDcd76609fe74b3010323dad6bc8b211e0\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 07:48:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8176609f2f4b3010ed0152492799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDcd76609fe74b3010323dad6bc8b211e0</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OpenSea Spoke" source="x_553251_opensea">adaeee3e2f473010ed0152492799b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OpenSea Spoke">adaeee3e2f473010ed0152492799b67a</sys_scope>
+        <sys_update_name>sys_complex_object_8176609f2f4b3010ed0152492799b6e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 07:48:33</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

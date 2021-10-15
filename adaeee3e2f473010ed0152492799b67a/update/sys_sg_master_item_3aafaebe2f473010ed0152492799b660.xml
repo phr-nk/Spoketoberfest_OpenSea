@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>alm_asset</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Asset Form Screen">faafaebe2f473010ed0152492799b65d</embedded_screen>
+        <item_view/>
+        <name>Asset master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 04:31:05</sys_created_on>
+        <sys_id>3aafaebe2f473010ed0152492799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset master_item</sys_name>
+        <sys_package display_value="OpenSea Spoke" source="x_553251_opensea">adaeee3e2f473010ed0152492799b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OpenSea Spoke">adaeee3e2f473010ed0152492799b67a</sys_scope>
+        <sys_update_name>sys_sg_master_item_3aafaebe2f473010ed0152492799b660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 04:31:05</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Asset List Screen View Config">e6af22be2f473010ed0152492799b660</view_config>
+    </sys_sg_master_item>
+</record_update>

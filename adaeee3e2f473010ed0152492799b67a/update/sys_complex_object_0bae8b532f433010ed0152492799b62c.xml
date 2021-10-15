@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD47ae8b531f433010204e86d93cfa832c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>adaeee3e2f473010ed0152492799b67a</scope_name>
+        <serialized_content>{"FlowDesigner:FD47ae8b531f433010204e86d93cfa832c":{},"FlowDesigner:FD47ae8b531f433010204e86d93cfa832c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"705fc126-3524-440f-b6ac-df38caa2a384\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"response\",\"mandatory\":\"false\",\"uiUniqueId\":\"3cd3bc0f-079b-4e65-b60d-37d87b8de92f\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD47ae8b531f433010204e86d93cfa832c\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"599eef22-019e-4453-84a7-7eaa98f4c6a5\",\"hint\":null,\"uiType\":\"object\",\"order\":\"4\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 20:03:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0bae8b532f433010ed0152492799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD47ae8b531f433010204e86d93cfa832c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OpenSea Spoke" source="x_553251_opensea">adaeee3e2f473010ed0152492799b67a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OpenSea Spoke">adaeee3e2f473010ed0152492799b67a</sys_scope>
+        <sys_update_name>sys_complex_object_0bae8b532f433010ed0152492799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 20:03:30</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

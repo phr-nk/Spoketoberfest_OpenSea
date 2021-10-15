@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="link_to_nft" label="Link to NFT" language="en" table="x_553251_opensea_nft_asset">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>link_to_nft</element>
+            <help/>
+            <hint/>
+            <label>Link to NFT</label>
+            <language>en</language>
+            <name>x_553251_opensea_nft_asset</name>
+            <plural>Link to NFTs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-15 01:57:03</sys_created_on>
+            <sys_id>a9c2f6042fd73010ed0152492799b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Link to NFT</sys_name>
+            <sys_package display_value="OpenSea Spoke" source="x_553251_opensea">adaeee3e2f473010ed0152492799b67a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OpenSea Spoke">adaeee3e2f473010ed0152492799b67a</sys_scope>
+            <sys_update_name>sys_documentation_x_553251_opensea_nft_asset_link_to_nft_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-15 01:57:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
