@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="alm_asset" label="NFT Asset" max_length="40" name="x_553251_opensea_nft_asset" type="collection">
+    <element extends="alm_asset" label="NFT Asset" max_length="40" name="x_553251_opensea_nft_asset" sizeclass="41" type="collection">
+        <element label="Average Price" max_length="100" name="average_price_eth" read_only="true" type="currency"/>
         <element label="Blockchain Address" max_length="500" name="blockchain_address" type="string"/>
         <element label="Collection Name" max_length="60" name="collection_name" type="string"/>
         <element label="Contract Address" max_length="500" name="contract_address" type="string"/>
@@ -9,6 +10,8 @@
         <element label="Link to NFT" max_length="100" name="link_to_nft" type="url"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element label="Number of sales" max_length="40" name="number_of_sales" type="integer"/>
+        <element label="Photo attached?" max_length="40" name="photo_attached" type="boolean"/>
+        <element label="Price of 1 Ethereum" max_length="20" name="price_of_1_ethereum" read_only="true" type="currency"/>
         <element label="Total price" max_length="40" name="total_price" type="integer"/>
     </element>
 </database>
